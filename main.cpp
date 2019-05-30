@@ -20,6 +20,8 @@
 
 #define DEBUG                 0
 
+#define NAME "testwm"
+
 static const char POS_FILE_NAME[] = "wndpos.txt";
 
 // hotkeys

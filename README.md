@@ -19,3 +19,6 @@ The fix this tool contains:
 * Ctrl + Alt + R = restore window positions
 
 Also added some personal comfort things to it.
+
+To compile run make.sh (no makefile cuz yolo). Also this is to be compiled on
+Windows cygwin with mingw32.
